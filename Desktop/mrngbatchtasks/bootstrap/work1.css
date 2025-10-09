@@ -1,0 +1,118 @@
+img{
+    width: 100%;
+}
+.bgs{
+    background-image:url(./img2.jpg) ;
+    /* height: 60vh; */
+}.we{
+    color: white;
+    padding-top: 30px;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bg2{
+    background-image: url(./imgs4.jpg);
+    /* height: 60vh; */
+    background-position: 
+    center;
+    background-size: cover;
+}
+.bg4{
+    background-color: red;
+    height: 10vh;
+    
+}
+.our{
+    padding-top: 20px;
+}
+.make{
+   width: 300px;
+   font-size: 50px;
+   text-align: end;
+   /* margin-left: 80px; */
+   padding-top: 30px;
+
+}
+.dreams{
+    padding-left:80px ;
+     font-size: 60px;
+}
+.come{
+     font-size: 60px;
+}
+.par1{
+    /* width: 380px; */
+    height: 60px;
+    /* background-color:yellow ; */
+    font-size: 17px;
+    text-align: end;
+}
+.sdd{
+    text-align: end]7890-\
+}
+.bg3{
+    background-image: url(./imgs3.jpg);
+     /* height: 65vh; */
+    background-position: center;
+    background-size: cover;
+}
+
+.par2{
+    
+}
+
+.sat{
+    font-size: 60px;
+    padding-top: 30px;
+}
+.img1{
+    width: 50px;
+    height: 50px;
+}
+.mad{
+    margin-top: 20px;
+}
+.tower{
+    width: 100%;
+    height: 800px;
+}
+.one{
+    background-image: url(./imgs5.jpg);
+    height: 60vh;
+     background-position: center;
+    background-size: cover;
+}
+.three{
+     background-image: url(./imgs6.jpg);
+    height: 60vh;
+     background-position: center;
+    background-size: cover;
+}
+.four{
+     background-image: url(./imgs7.jpg);
+    height: 60vh;
+     background-position: center;
+    background-size: cover;
+}
+.two{
+     background-image: url(./imgs9.jpg);
+    height: 60vh;
+     background-position: center;
+    background-size: cover;
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+body{
+    /* background: rgb(181, 114, 114); */
+}
+
+.container-fluid{
+    font-size: 20px;
+    color: rgb(255, 0, 191);
+}
+
+img{
+    width: 100%;
+}
+.container{
+    margin-top: 20px;
+}

@@ -1,0 +1,78 @@
+.one{
+    background-color: rgb(11, 11, 90);
+    /* height: 20vh; */
+}
+
+.cen{
+    text-align: center;
+}
+h4{
+    padding-top: 30px;
+    color: gray
+}
+button{
+    width: 150px;
+    height: 40px;
+    border:none;
+    margin-bottom: 30px;
+     background-color: rgb(11, 11, 90);
+     border: 1px solid white;
+     color: gray;
+}
+.btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(70, 204, 70);
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+h3{
+    text-align: center;
+
+}
+.para11{
+    text-align: center;
+    color: gray
+    
+
+}
+
+
+.pic{
+    background-image: url(./img1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+h1{
+  font-size: 58px;
+  padding-left: 50px;
+  color: white;
+}
+
+.pa1{
+    text-align: center;
+}
+.black{
+    background-color:black;
+    
+}
+.par1{
+    padding-left: 50px;
+    color: white;
+}
+.nd{
+    padding-left: 50px;
+}
+.img11{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.res{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
