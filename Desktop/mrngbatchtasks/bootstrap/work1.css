@@ -63,7 +63,7 @@ button{
     text-align: end;
 }
 .sdd{
-    text-align: end]7890-\
+    text-align: end
 }
 .bg3{
     background-image: url(./imgs3.jpg);
@@ -114,5 +114,5 @@ button{
     height: 60vh;
      background-position: center;
     background-size: cover;
-    width: 100%;
+    
 }

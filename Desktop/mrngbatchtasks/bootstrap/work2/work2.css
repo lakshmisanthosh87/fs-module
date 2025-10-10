@@ -19,15 +19,15 @@ button{
      border: 1px solid white;
      color: gray;
 }
-.btn{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    background-color: rgb(70, 204, 70);
-    margin-left: 100px;
-    margin-top: 50px;
-    
+.btn {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(70, 204, 70);
+  margin: 50px auto 20px;
+  display: block;
 }
+
 h3{
     text-align: center;
 
@@ -44,11 +44,11 @@ h3{
     background-image: url(./img1.jpg);
     background-size: cover;
     background-position: center;
-    height: 50vh;
+    /* height: 60vh; */
 }
 h1{
   font-size: 58px;
-  padding-left: 50px;
+  /* padding-left: 50px; */
   color: white;
 }
 
@@ -57,14 +57,15 @@ h1{
 }
 .black{
     background-color:black;
+    padding: 40px 60px;
     
 }
 .par1{
-    padding-left: 50px;
+    /* padding-left: 50px;0 */
     color: white;
 }
 .nd{
-    padding-left: 50px;
+    /* padding-left: 50px; */
 }
 .img11{
     width: 70px;
